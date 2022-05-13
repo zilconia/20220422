@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-sitemap
-title:
+"title:"
 "description:"
 "logo:"
 google_analytics: UA-228709265-1 
