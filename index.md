@@ -1,7 +1,7 @@
 ## zilconiaのホームページ
 
 アカウントネーム：zilconia  
-Githubアカウントページ："https://github.com/zilconia"
+Githubアカウントページ：https://github.com/zilconia
 
 Whenever you commit to this repository, GitHub Pages will run [](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
